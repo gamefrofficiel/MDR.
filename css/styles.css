@@ -1,0 +1,32 @@
+p.un{
+    color: red;
+    background-color: black;
+}
+h1{
+    color:lime;
+    background-color: red;
+    font-size: 30px;
+    padding-left: 50%;
+    opacity: 0.5;
+}
+a{
+    color: rgb(132, 190, 18);
+    background-color: black;
+    font-weight: bold;
+}
+h6{
+    color:gold;
+    background-color: gray;
+    font-size: 0.9em;
+    padding-left: 60%;
+}
+a.blan{
+    color: white;
+    background-color: white;
+    opacity: 0.7;
+}
+body{
+    background-color: lime;
+    background: url("https://f4.bcbits.com/img/a3466877960_65") no-repeat;
+    background-size: 100%;
+}
